@@ -1,7 +1,7 @@
 # yolov9-segmentation-tensorrt
 This is the tensorrt inference code for yolov9 instance segmentation. 
 
-<img src="https://github.com/xuanandsix/yolov9-segmentation-tensorrt/blob/raw/show/test.jpg" width="320" height="180">
+<img src="https://github.com/xuanandsix/yolov9-segmentation-tensorrt/raw/main/show/test.jpg" height="60%" width="60%">
 
 ---
 
